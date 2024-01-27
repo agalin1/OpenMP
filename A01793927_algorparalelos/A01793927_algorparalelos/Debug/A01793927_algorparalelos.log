@@ -1,0 +1,3 @@
+﻿  A01793927_algorparalelos.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  A01793927_algorparalelos.vcxproj -> C:\Users\user\source\repos\A01793927_algorparalelos\Debug\A01793927_algorparalelos.exe
